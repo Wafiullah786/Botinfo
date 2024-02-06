@@ -2,6 +2,7 @@
 
 
 INTRODUCTION
+
 BOTINFO is at the forefront of conversational AI, revolutionizing the way we interact with technology. Our cutting-edge system harnesses the power of artificial intelligence to bring you a personal voice assistant like no other. With BOTINFO, you can effortlessly complete tasks, find information, and engage in natural conversations, all through the convenience of voice commands. Experience a new era of user-friendly, hands-free technology with BOTINFO.
 
 KEY FEATURES
