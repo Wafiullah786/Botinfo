@@ -12,3 +12,12 @@ KEY FEATURES
 
 TECHNOLOGIES & TOOLS USED
 
+1. Open AI GPT 4 turbo
+2. Open ai Speech Studio
+3. Whisper
+4. Multiple language support
+5. Firebase
+6. Flutter
+
+SCREENHOTS
+<img src = "1.png" width ="250" /> <img src = "2.png" width ="250" /> <img src = "3.png" width ="250" /> <img src = "4.png" width ="250" /> <img src = "5.png" width ="250" />
