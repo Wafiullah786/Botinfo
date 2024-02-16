@@ -1,5 +1,5 @@
 # Botinfo
-<img src = "117.png" width ="380" />
+<img src = "bOTINFO.JPG" width ="1000" />
 
 
 INTRODUCTION
