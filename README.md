@@ -26,4 +26,4 @@ SCREENSHOTS
 
 INSTALLATION LINK:
 
-https://play.google.com/store/apps/details?id=com.botinfo
+[https://play.google.com/store/apps/details?id=com.botinfo](https://drive.google.com/file/d/1zrIzo7NXpXvHgyqKNfbnoZzzoypsOK8V/view?usp=sharing)
